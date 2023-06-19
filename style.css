@@ -1,0 +1,14 @@
+*{
+    font-family:papyrus;
+}
+body{
+    background-color: antiquewhite;
+}
+
+.link{
+    list-style:circle;
+}
+.food{
+    color: black;
+    font-style: italic;
+}
