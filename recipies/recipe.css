@@ -1,8 +1,12 @@
 *{
     font-family:papyrus;
+    
 }
 body{
     background-color: antiquewhite;
+}
+div{
+    text-align: center;
 }
 h1{
     font-weight: bolder;
